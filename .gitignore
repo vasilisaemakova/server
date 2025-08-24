@@ -55,3 +55,10 @@ allure-report/
 allure-results/
 node_modules/
 *.tgz
+
+allure-results/
+allure-report/
+venv/
+__pycache__/
+node_modules/
+*.tgz
